@@ -1,0 +1,162 @@
+Names: Mana Parsi, Hamza Khalique, Joe Torres, Harkirat Sidhu
+
+This is the report file for our answers
+
+Question 1: The number of unique urls found: 9096
+this is only from the URL and we disregarded fragments
+
+Question 2: The Url we found with the most words: http://www.ics.uci.edu/~wjohnson/BIDA/Ch8/Ch8WinBUGScode.odc and the
+length of that url with the most words: 66042
+
+Question 3: In the entire set of pages that we crawled under these domains, and ignoring english stop words, we
+compared the content of the words in each crawl with the english stop words we were given to ignore. Therefore,
+we found that the top 50 words in ordered ny frequency:
+reply
+2020
+pm
+september
+و
+در
+will
+به
+از
+july
+0
+may
+june
+thanks
+august
+october
+با
+research
+2019
+can
+computer
+information
+thank
+great
+که
+good
+post
+news
+را
+2
+data
+خرید
+students
+1
+people
+school
+technology
+article
+2018
+2017
+student
+این
+really
+bren
+software
+شما
+events
+read
+new
+nice
+
+Question 4: After crawling the ics.uci.edu domain for quite a while, the number of 
+subdomains in the ics.uci.edu domain ordered alphabetically and the unique number of 
+pages detected in the subdomain: 94
+
+acoi.ics.uci.edu, 1
+aiclub.ics.uci.edu, 4
+alumni.ics.uci.edu, 10
+archive.ics.uci.edu, 14
+asterix.ics.uci.edu, 9
+asterixdb.ics.uci.edu, 2
+auge.ics.uci.edu, 2
+awareness.ics.uci.edu, 3
+calendar.ics.uci.edu, 1673
+cert.ics.uci.edu, 239
+checkmate.ics.uci.edu, 15
+chenli.ics.uci.edu, 52
+cherry.ics.uci.edu, 1
+chime.ics.uci.edu, 1
+cloudberry.ics.uci.edu, 13
+cml.ics.uci.edu, 3985
+codeexchange.ics.uci.edu, 5
+computableplant.ics.uci.edu, 246
+coronavirustwittermap.ics.uci.edu, 8
+cradl.ics.uci.edu, 263
+cwicsocal18.ics.uci.edu, 1
+cyberclub.ics.uci.edu, 143
+dejavu.ics.uci.edu, 1
+duttgroup.ics.uci.edu, 2
+elms.ics.uci.edu, 2
+emj-pc.ics.uci.edu, 1
+emj.ics.uci.edu, 244
+evoke.ics.uci.edu, 317826
+flamingo.ics.uci.edu, 187
+fr.ics.uci.edu, 22
+frost.ics.uci.edu, 2
+futurehealth.ics.uci.edu, 221
+grape.ics.uci.edu, 21
+graphics.ics.uci.edu, 333
+graphmod.ics.uci.edu, 22
+hack.ics.uci.edu, 1
+hai.ics.uci.edu, 131
+hana.ics.uci.edu, 5
+helpdesk.ics.uci.edu, 16
+hobbes.ics.uci.edu, 2
+hombao.ics.uci.edu, 229
+honors.ics.uci.edu, 71
+http:www.ics.uci.edu, 1
+iasl.ics.uci.edu, 846
+industryshowcase.ics.uci.edu, 1
+informatics.ics.uci.edu, 23
+intranet.ics.uci.edu, 908
+ipubmed.ics.uci.edu, 3
+isg.ics.uci.edu, 498
+jgarcia.ics.uci.edu, 393
+jujube.ics.uci.edu, 2
+kdd.ics.uci.edu, 1
+keys.ics.uci.edu, 3
+liege.ics.uci.edu, 6
+luci.ics.uci.edu, 4
+mailman.ics.uci.edu, 19
+malek.ics.uci.edu, 5
+map125.ics.uci.edu, 1
+mcs.ics.uci.edu, 13
+mhcid.ics.uci.edu, 436
+mondego.ics.uci.edu, 30
+mse.ics.uci.edu, 502
+mswe.ics.uci.edu, 729
+nalini.ics.uci.edu, 2
+ngs.ics.uci.edu, 68821
+nile.ics.uci.edu, 2
+omni.ics.uci.edu, 1
+perennialpolycultures.ics.uci.edu, 11
+piki.ics.uci.edu, 1
+psearch.ics.uci.edu, 6
+radicle.ics.uci.edu, 1
+redmiles.ics.uci.edu, 79
+sconce.ics.uci.edu, 33
+sdcl.ics.uci.edu, 6086
+se.ics.uci.edu, 1
+seal.ics.uci.edu, 269
+seraja.ics.uci.edu, 1
+sherlock.ics.uci.edu, 49
+sli.ics.uci.edu, 6420
+soc.ics.uci.edu, 1
+sourcerer.ics.uci.edu, 2
+sprout.ics.uci.edu, 14
+statconsulting.ics.uci.edu, 49
+student-council.ics.uci.edu, 226
+studentcouncil.ics.uci.edu, 2
+support.ics.uci.edu, 3
+swiki.ics.uci.edu, 1743
+tastier.ics.uci.edu, 1
+tippersweb.ics.uci.edu, 13
+transformativeplay.ics.uci.edu, 506
+ugradforms.ics.uci.edu, 4
+vision.ics.uci.edu, 5137
+wearablegames.ics.uci.edu, 164
+wics.ics.uci.edu, 19
